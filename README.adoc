@@ -1,0 +1,5 @@
+= Jersey Spring Boot Demo Application
+
+* Jersey Config with a simple JAX-RS resource
+* Spring Boot Actuator enabled
+* Spring Cloud Sleuth with Log4j2
